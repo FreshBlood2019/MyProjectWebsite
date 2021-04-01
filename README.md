@@ -2,4 +2,4 @@
 First update
 
 
-https://freshblood2019.github.io/MyProjectWebsite/ Tap here for a quick preview of my project.
+Go to https://freshblood2019.github.io/MyProjectWebsite/  for a quick preview of my project.
