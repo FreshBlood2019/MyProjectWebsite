@@ -25,7 +25,7 @@ $(document).ready(function(){
 
     //typing animation script
     var typed = new Typed(".typing", {
-        strings: ["a QA engineer", "a manual tester", "an automation engineer"],
+        strings: ["a QA analyst", "a manual tester", "a software QA engineer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
